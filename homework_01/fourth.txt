@@ -1,0 +1,3 @@
+this is fourth initial text file	
+This is fourth changed text
+    text changed a second time
